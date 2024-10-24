@@ -16,7 +16,7 @@ Or watch the video below:
 
 ## LLM MODELS 
 
-Here is my fine-tuned LLM model: [Watch on YouTube](https://huggingface.co/Sakib323)
+Here is my fine-tuned LLM model: [Huggingface/Sakib323](https://huggingface.co/Sakib323)
 
 
 <p align="center"><img src="https://i.imgur.com/a9QWW0v.png"></p>
