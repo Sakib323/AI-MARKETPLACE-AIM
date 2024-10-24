@@ -1,3 +1,8 @@
+# My Project
+
+Check out my YouTube video about this project: [Watch on YouTube](https://www.youtube.com/watch?v=x63z5Yak9Ni2FBt3)
+
+
 <p align="center"><img src="https://i.imgur.com/a9QWW0v.png"></p>
 
 ## Usage
